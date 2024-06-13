@@ -4,7 +4,7 @@
 2.  Type text into the "Enter Request" textbox
 3.  Press enter on your keyboard
 
-You can access the webpage [HERE!](JustinHLott.GitHub.io/module3countriesAPI)
+You can access the webpage [HERE!](https://justinhlott.github.io/module3countriesAPI/)
 
 ![picture of multiple country's flags](flags.JPG)
 
