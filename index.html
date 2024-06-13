@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <h1>About Countries</h1>
+    <p>Enter Request</p>
+    <form action="">
+        <input type="text" class="text"><br><br>
+        
+        <input type="radio" id="info" name="radioGroup" checked>
+        <label for="info">Get info about the country (ex: Bermuda)</label><br>
+        
+        <input type="radio" id="list" name="radioGroup">
+        <label for="list">List all countries in a region (ex: Americas)</label><br>
+        
+        <input type="radio" id="domain" name="radioGroup">
+        <label for="domain">Find country with given top level domain (ex: ly)</label><br>
+    </form>
+    <div class="results"></div>
+    <script src="countries.js"></script>
+</body>
+</html>
